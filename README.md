@@ -34,8 +34,6 @@ Feel free to reach out or collaborate! Whether it's firmware development, optimi
 
 ---
 
-*Currently working at **NXP Semiconductors***.
-
 ## 📊 GitHub Stats
 
 ![Romesh Rajoria's GitHub stats](https://github-readme-stats.vercel.app/api?username=romesh17184&show_icons=true&theme=radical)
